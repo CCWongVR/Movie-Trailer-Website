@@ -4,12 +4,12 @@ import media
 # movie class instances to be displayed on the website in order of movie title, poster image URL, and the trailer URL
 infernal_affairs = media.Movie(
     "Infernal Affairs",
-    "https://resizing.flixster.com/7l_kZfq7mp6DTq5RB81ygotX1EY=/206x305/v1.bTsxMTE3NzgzOTtqOzE3Njc5OzEyMDA7ODAwOzEyMDA",
+    "https://resizing.flixster.com/7l_kZfq7mp6DTq5RB81ygotX1EY=/206x305/v1.bTsxMTE3NzgzOTtqOzE3Njc5OzEyMDA7ODAwOzEyMDA",  # noqua
     "https://www.youtube.com/watch?v=S4R3nHkqyfM")
 
 the_warlords = media.Movie(
     "The Warlords",
-    "https://resizing.flixster.com/6YU9GhS7ycoiWKIWrf2svP9Egns=/206x305/v1.bTsxMTI5OTk3NTtqOzE3NjgwOzEyMDA7MTUzNjsyMDQ4",
+    "https://resizing.flixster.com/6YU9GhS7ycoiWKIWrf2svP9Egns=/206x305/v1.bTsxMTI5OTk3NTtqOzE3NjgwOzEyMDA7MTUzNjsyMDQ4",  # noqua
     "https://www.youtube.com/watch?v=SGhfUq66ADQ")
 
 true_legend = media.Movie(
