@@ -5,3 +5,7 @@ Creates a webpage that displays a number of movies with title, movie poster, and
 ##How to Run
 
 Download the project files from github, run entertainment_center.py using python shell.
+
+###Credit to
+
+Udacity Full Stack Nanodegree for base code
